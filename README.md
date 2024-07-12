@@ -1,3 +1,4 @@
 #Treino42
 
-Basicos de git, bash e C
+
+Basicos de git, bash e C!
